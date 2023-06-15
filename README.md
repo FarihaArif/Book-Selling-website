@@ -10,4 +10,4 @@ A market place where you can preview books, search books by their names or by au
 7. After placing, open web browser and visit http://localhost/phpmyadmin/
 8. Click on new button, and create a new database named with shop_db.
 9. After then, import .sql file from bookverse folder.
-10. Access the PHP files by opening the web browser and visit http://localhost/bookverse/login.php or http://localhost/bookverse/home.php.
+10. Access the PHP files by opening the web browser and visit http://localhost/final1/login.php or http://localhost/final1/home.php.
