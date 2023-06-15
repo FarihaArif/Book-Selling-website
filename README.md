@@ -1,7 +1,7 @@
 # Book-Selling-website
 A market place where you can preview books, search books by their names or by author names, check reviews for each book, allowing you to make informed decisions about the titles you want to read, and purchase books at Cash on delivery.
 # Steps for executing website:
-1. Download bookverse2 folder from github.
+1. Download final1 folder from github.
 2. To execute this, make sure that you should have XAMPP server installed at your device.
 3. Open the XAMPP server.
 4. Start the Apache and MySQL services by clicking on the 'start' buttons next to them.
