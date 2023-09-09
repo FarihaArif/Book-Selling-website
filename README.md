@@ -3,6 +3,17 @@ A market place where you can preview books, search books by their names or by au
 
 ## Project Overview
 BookVerse is a dynamic and user-friendly platform designed to revolutionize the way books are bought and sold online. This comprehensive system combines cutting-edge technology (PHP, HTML and CSS) with a seamless user experience, empowering both book enthusiasts and sellers to connect, discover, and acquire their favorite reads.
+#### Key Features includes:
+1. User Authentication
+2. User Authorization
+3. Administration
+4. User Reviews
+5. Search Filters
+6. Book Categories
+7. Cart management
+8. Checkout
+9. Payment gateway through Stripe (test mode)
+10. Transaction History
 
 ## Steps for executing website:
 1. Download final1 folder from github.
