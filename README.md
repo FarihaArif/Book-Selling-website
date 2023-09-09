@@ -78,56 +78,52 @@ Admin can delete message by clicking delete button.
 From User perspective, there is a home page which is just used to display some featured products. Through home page user can go to shop page, contact us, and about us.
 
 ![image](https://github.com/FarihaArif/Book-Selling-website/assets/114657374/78dd4d9b-bfc0-4cbd-85d2-f44d55234fbe)
+
 ![image](https://github.com/FarihaArif/Book-Selling-website/assets/114657374/22f613be-2421-4759-a759-cd51082068f8)
+
 ![image](https://github.com/FarihaArif/Book-Selling-website/assets/114657374/0a178bcd-d22f-418b-bc07-f6bf39ae8933)
 
 There is a shop page used to display all the books available. The page is categorized according to genres. It also displays the featured books.
+
 ![image](https://github.com/FarihaArif/Book-Selling-website/assets/114657374/11bba709-4105-4301-b456-a0b680a8e6e9)
+
 ![image](https://github.com/FarihaArif/Book-Selling-website/assets/114657374/c3ac9dc4-8bbc-455d-ae1e-a04b0da85a46)
+
 ![image](https://github.com/FarihaArif/Book-Selling-website/assets/114657374/243638a5-1c96-4665-abe0-ac1ec2ffe917)
 
 The About us page displays what is website for. It also displays testimonials of users.
 
 ![image](https://github.com/FarihaArif/Book-Selling-website/assets/114657374/280a5b3a-1494-42f5-95db-b130eb4182a0)
 
-### HOW DO A USER CAN INTERACT WITH THE WEBSITE?
+##### HOW DO A USER CAN INTERACT WITH THE WEBSITE?
 
 In order to interact with the website user has to register himself.
+
 ![image](https://github.com/FarihaArif/Book-Selling-website/assets/114657374/14bd3d6c-947b-4fca-abcc-f60f1f738cca)
 
 Once the user has registered himself, he will be redirected to login page. After login, he will be directed to the Home page where he/she can choose a book or can reach the shop page to buy a book. 
 ![image](https://github.com/FarihaArif/Book-Selling-website/assets/114657374/f482dc96-8ca2-44d2-bff1-39ad05c78b08)
 
 The product will be added to the cart from where he she selects one of the payment process.
+
 ![image](https://github.com/FarihaArif/Book-Selling-website/assets/114657374/3461ea75-a220-4ac3-bca1-5f1d2f40f957)
 
 After selecting the payment method, he will be redirected to checkout form.
+
 ![image](https://github.com/FarihaArif/Book-Selling-website/assets/114657374/90afb788-66ab-49fa-b9c0-6fe3ed41c6fe)
 
 If user has selected Cash On Delivery, his order will be confirmed but if he/she has selected payment gateway then a form open to enter his credit/debit card information.
+
 ![image](https://github.com/FarihaArif/Book-Selling-website/assets/114657374/cb5186a2-a8f7-424e-a8de-1cc2806b2afd)
 
 Once the user, has confirmed a purchase, his order will appear on the orders page. This page displays information such as name, order, address and payment status etc.
+
 ![image](https://github.com/FarihaArif/Book-Selling-website/assets/114657374/93832e50-3793-4997-9764-466f2797f071)
 
 The user can also visit transaction page which is used to display all online payment done by the user. This does not display order of cash on delivery.
+
 ![image](https://github.com/FarihaArif/Book-Selling-website/assets/114657374/3058f628-78c3-43e4-a492-4cd95a200e04)
 
 Not only that, there is also a Contact us page which is like a help desk for user. User can inquire anything about the website, order or product. In order to contact, user have to be registered first.
 ![image](https://github.com/FarihaArif/Book-Selling-website/assets/114657374/7ba43e90-f62f-4ffe-ac9b-f212dc2f2b45)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
